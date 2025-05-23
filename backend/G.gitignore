@@ -1,0 +1,22 @@
+# Java
+*.class
+*.jar
+*.war
+*.log
+
+# Maven
+/target/
+
+# IntelliJ
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+
+# Ignore secrets and config
+.env
+src/main/resources/application.properties
